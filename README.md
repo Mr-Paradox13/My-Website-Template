@@ -16,5 +16,6 @@ ____
 <a href="https://github.com/Mr-ParadoX/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mr-Paradox13/firstProject"></a>
 <a href="https://github.com/Mr-ParadoX/firstProject/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Mr-Paradox13/firstProject?label=Watchers&color=blue&style=flat-square"></a>
 </p>
-____
+<a href="https://github.com/Mr-Paradox13">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+</a>
