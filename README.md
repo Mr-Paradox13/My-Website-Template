@@ -1,10 +1,5 @@
 ## Hallo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Mr.ParadoX
 ___
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
-
-___
-
 <p align="center">
 <a href="https://github.com/Mr-ParadoX13">
 <img src="https://64.media.tumblr.com/tumblr_lddevyn9ro1qfw3mwo1_500.gifv"alt="GIF" width="128" height="64"/>
@@ -21,3 +16,5 @@ ___
 <a href="https://github.com/Mr-ParadoX/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mr-Paradox13/firstProject"></a>
 <a href="https://github.com/Mr-ParadoX/firstProject/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Mr-Paradox13/firstProject?label=Watchers&color=blue&style=flat-square"></a>
 </p>
+___
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
