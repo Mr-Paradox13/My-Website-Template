@@ -1,0 +1,9 @@
+#searching{float:center; border:solid 1px #000;margin-bottom:15px;}
+#searching input[type="text"]{border:0;padding:10px;background:#fff;font-weight:bold;color:#666;font-size:13px;margin:0;outline:none}
+#search-buttons{padding:5px;overflow:hidden;text-align:center;margin:0;}
+#search-button-top{background-image:url("http://1.bp.blogspot.com/-AnrB7wz5dD0/VGsgaRby5AI/AAAAAAAAEFQ/NZ9wS7XSqxw/s1600/meta-icon.png");background-repeat:no-repeat;margin:0;outline:none;height:36px;width:40px;background-color:#e74c3c;background-position:13px -243px;border:none;float:center;cursor:pointer}
+#search-button-top:hover{-webkit-transition:all .2s ease-in;-moz-transition:all .2s ease-in;-ms-transition:all .2s ease-in;transition:all .2s ease-in;background-color:#c0392b}
+#searching{float:center}
+form {
+    display: inline-block;
+}
